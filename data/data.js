@@ -1,4 +1,4 @@
-var myurljson = "https://cerema.github.io/dataroom/data/data.json" ;
+var myurljson = "https://cerema.github.io/dataroom/data/data.json" ; 
 //var myurljson = "data/data.json" ;
 
 var mydata = (function () {

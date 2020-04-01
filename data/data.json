@@ -614,7 +614,7 @@
     "SENSIBILITE": "Données publiques",
     "STATUT_OPENDATA": "Non",
     "PERSP_OPENDATA": "",
-    "DIFFUSION_ACTUELLE": "Ouvert",
+    "DIFFUSION_ACTUELLE": "Ouvert", 
     "EFFORT_REUSE": "",
     "URL_DATA": "https://www.cerema.fr/fr/centre-ressources/boutique/transports-collectifs-urbains-province-tcu-evolution-2010",
     "LICENCE": "Licence ouverte / Open Data Commons Open Database License (ODbL)",
